@@ -1,0 +1,24 @@
+
+
+h1 {
+    color: rgb(129, 22, 22);
+    font:3 sans-serif;
+}
+
+p {
+    color: rgb(77, 153, 81);
+    font-size: medium;
+}
+
+h3 {
+    font-style: oblique;
+    color: azure;
+}
+h4 {
+    color: hotpink
+}
+a {
+    color: blue;
+}
+
+body {background-color: rgb(89, 89, 134);}
